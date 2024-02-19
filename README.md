@@ -1,13 +1,13 @@
 # Hi, I'm Isaac Serhane 👋
 I like front-end and back-end programming, I made websites, games and much more...
-## About Me
+# ℹ️ About Me
 
 I'm a Bachelor's student in Web Development passionate about creating exceptional web experiences.
 
 - 💼 Currently working on my portfolio.
 - 📧 You can reach me via isaacserhane95@gmail.com or on [LinkedIn](https://www.linkedin.com/in/isaac-serhane-168375256).
 
-## Languages and Technologies
+# 🛠️ Languages and Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ I'm a Bachelor's student in Web Development passionate about creating exceptiona
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)
-### GitHub Stats
+# 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac955&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
