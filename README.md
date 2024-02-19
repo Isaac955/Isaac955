@@ -23,4 +23,6 @@ I'm a Bachelor's student in Web Development passionate about creating exceptiona
 ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac955&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
