@@ -21,7 +21,6 @@ I'm a Bachelor's student in Web Development passionate about creating exceptiona
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)
 
 # 📊 GitHub Stats
 
