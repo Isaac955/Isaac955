@@ -2,7 +2,7 @@
 I like front-end and back-end programming, I made websites, games and much more...
 # ℹ️ About Me
 
-I'm a Bachelor's student in Web Development passionate about creating exceptional web experiences.
+I'm a Web Development and Computer Science graduate passionate about creating exceptional digital experiences.
 
 - 💼 My Portfolio : https://isaac-serhane.alwaysdata.net/
 - 📧 You can reach me via isaacserhane95@gmail.com or on [LinkedIn](https://www.linkedin.com/in/isaac-serhane-168375256).
